@@ -1,5 +1,5 @@
 # SMHI Water Bodies Analysis
-
+Public data downloaded from https://www.smhi.se/
 A geospatial Python project for analyzing and visualizing Swedish water bodies using shapefile data.
 
 
